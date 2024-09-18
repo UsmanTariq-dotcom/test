@@ -100,7 +100,7 @@ const style = StyleSheet.create({
   logo: {
     height: 20,
     width: 20,
-    tintColor: 'blue', // Change the color of the search icon to grey
+    tintColor: 'grey', // Change the color of the search icon to grey
   },
   textinput: {
     marginLeft: 10,
